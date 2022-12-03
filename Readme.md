@@ -46,4 +46,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgedem975&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgedem975&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
