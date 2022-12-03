@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark/?username=ryo-ma&row=1)](https://github.com/georgedem975)
+[![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark/?username=ryo-ma&row=1)](https://github.com/georgedem975)
 
 [![me](https://github.com/georgedem975/georgedem975/blob/master/gif/programmer.gif)](https://t.me/georgedemyan)
 
@@ -27,23 +27,16 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![notebook](https://github.com/georgedem975/georgedem975/blob/master/gif/noteboke.gif)
-
 ---
 
 ### Follow me
 
 [![YouTube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCB9QYH6lwgmargyyhMsFShA)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/georgedemyan)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgedem975&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgedem975&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgedem975&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgedem975&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgedem975&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgedem975&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=georgedem975&theme=solarized_dark)
