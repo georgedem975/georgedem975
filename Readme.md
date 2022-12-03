@@ -25,6 +25,8 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![notebook](https://github.com/georgedem975/georgedem975/blob/master/gif/noteboke.gif)
+
 ---
 
 ### Follow me
