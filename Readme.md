@@ -14,6 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![me](https://github.com/georgedem975/georgedem975/blob/master/gif/programmer.gif)](https://t.me/georgedemyan)
 
 ---
