@@ -41,4 +41,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgedem975&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=georgedem975&theme=solarized_dark)
 
+![GitHub Metrix](https://github.com/georgedem975/georgedem975/blob/master/github-metrics.svg)
+
 ![GitHub Snake Light](https://github.com/georgedem975/georgedem975/blob/output/github-contribution-grid-snake.svg)
