@@ -33,6 +33,7 @@
 
 [![YouTube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCB9QYH6lwgmargyyhMsFShA)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/georgedemyan)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgedem975&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgedem975&theme=solarized_dark)
