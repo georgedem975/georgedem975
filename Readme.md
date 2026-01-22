@@ -24,6 +24,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark&row=1&format=png)](https://github.com/georgedem975)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark&row=1&no-frame=true.png)](https://github.com/georgedem975)
+
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=georgedem975&theme=onedark&row=1.png)](https://github.com/georgedem975)
 
 
 [![me](https://github.com/georgedem975/georgedem975/blob/master/gif/programmer.gif)](https://t.me/georgedemyan)
