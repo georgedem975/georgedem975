@@ -13,21 +13,7 @@
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark/?username=ryo-ma&row=1)](https://github.com/georgedem975)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark)](https://github.com/ryo-ma/georgedem975)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&format=png)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark&row=1)](https://github.com/georgedem975)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark&row=1&format=png)](https://github.com/georgedem975)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark&row=1&no-frame=true.png)](https://github.com/georgedem975)
-
 [![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=georgedem975&theme=onedark&row=1.png)](https://github.com/georgedem975)
-
 
 [![me](https://github.com/georgedem975/georgedem975/blob/master/gif/programmer.gif)](https://t.me/georgedemyan)
 
