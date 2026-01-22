@@ -18,7 +18,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=georgedem975&theme=onedark)](https://github.com/ryo-ma/georgedem975)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&format=png)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![me](https://github.com/georgedem975/georgedem975/blob/master/gif/programmer.gif)](https://t.me/georgedemyan)
 
